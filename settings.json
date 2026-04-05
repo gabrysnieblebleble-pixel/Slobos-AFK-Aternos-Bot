@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+  "server": 
+    "ip": "JALATAMXX.aternos.me"
+    "port": ,47922,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
